@@ -6,7 +6,7 @@
 
 - **RuneRex API**: Dive into our expansive API offerings for seamless integration and powerful solutions.
   <br><img src="https://example.com/api-icon.png" width="25" height="25">
-  [![Explore](https://img.shields.io/badge/Explore-runerex--api.com-blue?style=flat-square)](https://runerex-api.com)
+  [![Explore]](https://runerex-api.com)
 
 - **Join Our Community**: Connect with us on Telegram for the latest updates and community discussions.
   <br><img src="https://cdn.dribbble.com/userupload/10585826/file/original-c92e1bfe002f2ea8c95686719c2e5817.gif" width="25" height="25">
