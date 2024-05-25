@@ -4,8 +4,6 @@
 
 ### Explore with Us
 
-- **RuneRex API**: Dive into our expansive API offerings for seamless integration and powerful solutions.
-  [![Explore]](https://runerex-api.com)
 
 - **Join Our Community**: Connect with us on Telegram for the latest updates and community discussions.
   <br><img src="https://cdn.dribbble.com/userupload/10585826/file/original-c92e1bfe002f2ea8c95686719c2e5817.gif" width="25" height="25">
@@ -20,5 +18,3 @@
 <img src="https://cdn-icons-png.flaticon.com/512/10270/10270175.png" width="30" height="30"> Looking to contribute? RexxCheat welcomes developers of all skill levels and backgrounds to join our project. Whether you're looking to fix bugs, add features, or provide feedback, there's a place for you in our community.
 
 *Unlock potential, innovate endlessly, and journey with us into the future of technology.*
-
-<img src="https://repository-images.githubusercontent.com/444994736/3cae5af0-4db1-4460-880c-cc76ea79da0d" width="100%">
