@@ -5,9 +5,9 @@
 ### Explore with Us
 
 
-- **Join Our Community**: Connect with us on Telegram for the latest updates and community discussions.
+-   [![Telegram](https://img.shields.io/badge/Telegram-Join%20Us-blue?logo=telegram)](https://t.me/RexxCheat) Connect with us on Telegram for the latest updates and community discussions.
   <br><img src="https://cdn.dribbble.com/userupload/10585826/file/original-c92e1bfe002f2ea8c95686719c2e5817.gif" width="25" height="25">
-  [![Telegram](https://img.shields.io/badge/Telegram-Join%20Us-blue?logo=telegram)](https://t.me/RexxCheat)
+
 
 ### What We Do 
 
