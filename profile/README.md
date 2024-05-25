@@ -11,10 +11,10 @@
 
 ### What We Do 
 
-<img src="https://icons.veryicon.com/png/o/object/material-design-icons/work-15.png" width="30" height="30"> RexxCheat is dedicated to developing advanced technological solutions that push the boundaries of what's possible. From game enhancements to comprehensive APIs, our tools are designed to enhance user capabilities and foster an environment of efficiency and innovation.
+-   [!<img src="https://icons.veryicon.com/png/o/object/material-design-icons/work-15.png" width="30" height="30"> RexxCheat is dedicated to developing advanced technological solutions that push the boundaries of what's possible. From game enhancements to comprehensive APIs, our tools are designed to enhance user capabilities and foster an environment of efficiency and innovation.
 
 ### Get Involved 🤝
 
-<img src="https://cdn-icons-png.flaticon.com/512/10270/10270175.png" width="30" height="30"> Looking to contribute? RexxCheat welcomes developers of all skill levels and backgrounds to join our project. Whether you're looking to fix bugs, add features, or provide feedback, there's a place for you in our community.
+-   [!<img src="https://cdn-icons-png.flaticon.com/512/10270/10270175.png" width="30" height="30"> Looking to contribute? RexxCheat welcomes developers of all skill levels and backgrounds to join our project. Whether you're looking to fix bugs, add features, or provide feedback, there's a place for you in our community.
 
 *Unlock potential, innovate endlessly, and journey with us into the future of technology.*
