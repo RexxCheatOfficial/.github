@@ -5,7 +5,6 @@
 ### Explore with Us
 
 - **RuneRex API**: Dive into our expansive API offerings for seamless integration and powerful solutions.
-  <br><img src="https://example.com/api-icon.png" width="25" height="25">
   [![Explore]](https://runerex-api.com)
 
 - **Join Our Community**: Connect with us on Telegram for the latest updates and community discussions.
